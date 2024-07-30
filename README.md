@@ -1,1 +1,1 @@
-# langchain-mysql-chat
+# langchain-sqlite-chat
