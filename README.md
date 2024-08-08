@@ -8,3 +8,6 @@ This software allows natural language conversations with a database.
 - [Ollama](https://ollama.com/) as the engine to run AI models locally
 - [SQLite](https://www.sqlite.org/) as RDBMS
 
+> Diagram:
+
+![diagram](diagram.png)
